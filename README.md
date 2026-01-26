@@ -161,4 +161,6 @@ src/
 ### 온보딩 다이어그램
 <img width="2300" height="1804" alt="image" src="https://github.com/user-attachments/assets/c671e613-6cbf-42d2-9287-799db8457f82" />
 
+### 화면 구성 및 주요 기능
+![화면 기록 2026-01-27 03 11 08](https://github.com/user-attachments/assets/6b423c87-aaf1-4c3d-9632-2f80c13f867c)
 

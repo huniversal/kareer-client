@@ -155,3 +155,9 @@ src/
   - Onboarding Step 페이지 컴포넌트
   - Onbaording 유효성 검사 커스텀 훅 구현
   - Onboarding API 연결
+
+<br />
+
+### 온보딩 다이어그램
+<img width="3500" height="2000" alt="image" src="https://github.com/user-attachments/assets/8b3afb1e-b935-40ab-95b9-c89fdd4e942f" />
+

@@ -159,5 +159,6 @@ src/
 <br />
 
 ### 온보딩 다이어그램
-<img width="3500" height="2000" alt="image" src="https://github.com/user-attachments/assets/8b3afb1e-b935-40ab-95b9-c89fdd4e942f" />
+<img width="2300" height="1804" alt="image" src="https://github.com/user-attachments/assets/c671e613-6cbf-42d2-9287-799db8457f82" />
+
 
